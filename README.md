@@ -1,4 +1,4 @@
-# QR Studio public pages
+# CounterCode public pages
 
 Static Support and Privacy Policy pages for App Store Connect.
 
